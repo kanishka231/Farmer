@@ -42,25 +42,4 @@ Run the application:
 bash
 Copy code
 flutter run
-📸 Screenshots
-Homepage
-
-
-Categories
-
-
-Product Details
-
-
-Search Functionality
-
-
-Purchase Request
-
-
-Animated Transitions
-
-
-
-
 Make your farming journey smarter with Farmer Product Recommendations App! 🌱
