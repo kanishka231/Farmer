@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "name": "Premium NPK Fertilizer",
+      "price": 100,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Organic Compost",
+      "price": 75,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Tomato Plant Food",
+      "price": 30,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Fruit Tree Fertilizer Spikes",
+      "price": 18,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Rose Plant Food",
+      "price": 25,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Lawn Fertilizer",
+      "price": 40,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Citrus Tree Fertilizer",
+      "price": 35,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Hydrangea Fertilizer",
+      "price": 28,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "Orchid Fertilizer",
+      "price": 22,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "All-Purpose Plant Food",
+      "price": 45,
+      "category": "Fertilizer",
+      "imageUrl": "https://agribegri.com/productimage/1217ade43bf273f2d41412130350748e-02-14-23-10-03-48.webp"
+    },
+    {
+      "name": "High-Yield Wheat Seeds",
+      "price": 50,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Drought-Resistant Corn Seeds",
+      "price": 65,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Heirloom Tomato Seeds",
+      "price": 35,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Organic Carrot Seeds",
+      "price": 20,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Sunflower Seed Pack",
+      "price": 15,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Herb Garden Seed Kit",
+      "price": 30,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Wildflower Seed Mix",
+      "price": 25,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Pumpkin Seeds",
+      "price": 18,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Bell Pepper Seeds",
+      "price": 22,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Cucumber Seeds",
+      "price": 20,
+      "category": "Seeds",
+      "imageUrl": "https://media.gettyimages.com/id/1372196138/photo/assorted-legumes-in-burlap-sacks-in-a-row-as-a-full-frame-background.jpg?s=612x612&w=gi&k=20&c=jXLFNq55lwNHhpJW0NtvKv0qX6WARclV9gPfhTx87kI="
+    },
+    {
+      "name": "Pesticide Sprayer",
+      "price": 120,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Garden Tiller",
+      "price": 250,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Greenhouse Kit",
+      "price": 500,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Wheelbarrow",
+      "price": 80,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Lawn Mower",
+      "price": 300,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Leaf Blower",
+      "price": 150,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Chainsaw",
+      "price": 200,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Wood Chipper",
+      "price": 450,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Pressure Washer",
+      "price": 180,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Compost Tumbler",
+      "price": 100,
+      "category": "Equipment",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-K2gHW2Xf1r9tI4v0p4UvvDQoNWmGQNYYRw&s"
+    },
+    {
+      "name": "Organic Pest Control Solution",
+      "price": 40,
+      "category": "Pest Control",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZE5pFTxTyW0BcwvhzvWHeXs3jQQ7MwmNDMw&s"
+    },
+    {
+      "name": "Slug and Snail Killer",
+      "price": 25,
+      "category": "Pest Control",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZE5pFTxTyW0BcwvhzvWHeXs3jQQ7MwmNDMw&s"
+    },
+    {
+      "name": "Mosquito Repellent",
+      "price": 30,
+      "category": "Pest Control",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZE5pFTxTyW0BcwvhzvWHeXs3jQQ7MwmNDMw&s"
+    },
+    {
+      "name": "Ant Bait Stations",
+      "price": 15,
+      "category": "Pest Control",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZE5pFTxTyW0BcwvhzvWHeXs3jQQ7MwmNDMw&s"
+    },
+    {
+      "name": "Fungicide Spray",
+      "price": 35,
+      "category": "Pest Control",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZE5pFTxTyW0BcwvhzvWHeXs3jQQ7MwmNDMw&s"
+    },
+    {
+      "name": "Japanese Beetle Trap",
+      "price": 20,
+      "category": "Pest Control",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZE5pFTxTyW0BcwvhzvWHeXs3jQQ7MwmNDMw&s"
+    }
+  ]
+}
