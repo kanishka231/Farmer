@@ -61,28 +61,6 @@ Purchase Request
 Animated Transitions
 
 
-🤝 Contributing
-Contributions are welcome! To contribute:
 
-Fork the repository.
-Create a new branch:
-bash
-Copy code
-git checkout -b feature/your-feature-name
-Commit your changes:
-bash
-Copy code
-git commit -m "Add your message here"
-Push to your branch:
-bash
-Copy code
-git push origin feature/your-feature-name
-Open a Pull Request.
-📬 Support
-For any questions or feedback, feel free to reach out at:
-
-Email: kanishka@amigo.gg
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 Make your farming journey smarter with Farmer Product Recommendations App! 🌱
